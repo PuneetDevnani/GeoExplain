@@ -109,7 +109,7 @@ Software is provided **“AS IS”**, without warranty of any kind.
 
 ---
 
-## 🌍 Vision
+## Vision
 
 The next phase of **GeoExplain** aims to build a fully interpretable and deployable GeoAI system with:
 - **Causal Inference** (DoWhy) for intervention modeling  
