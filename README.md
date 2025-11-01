@@ -1,11 +1,11 @@
-# 🌊 GeoExplain: Interpretable Geospatial ML for Urban Flood Risk
+# GeoExplain: Interpretable Geospatial ML for Urban Flood Risk
 
 **Author:** Puneet Devnani  
 *M.Tech – Artificial Intelligence & Data Science, VIT Bhopal*
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **GeoExplain** integrates **Machine Learning**, **Explainable AI (SHAP)**, and **Spatial Statistics** to predict and interpret **urban flood risk**.  
 The framework identifies high-risk flood zones and explains their causes through interpretable geospatial modeling.
@@ -16,7 +16,7 @@ The complete, end-to-end workflow — including preprocessing, model training, S
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 GeoExplain/
@@ -47,7 +47,7 @@ GeoExplain/
 
 ---
 
-## 📈 Key Highlights
+## Key Highlights
 
 - **XGBoost + Random Forest Ensemble** for flood prediction  
 - **SHAP Explainability** to interpret model outputs  
@@ -102,14 +102,14 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
+## License
 
 MIT License © 2025 **Puneet Devnani**  
 Software is provided **“AS IS”**, without warranty of any kind.
 
 ---
 
-## 🌍 Vision
+## Vision
 
 The next phase of **GeoExplain** aims to build a fully interpretable and deployable GeoAI system with:
 - **Causal Inference** (DoWhy) for intervention modeling  
