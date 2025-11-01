@@ -1,4 +1,4 @@
-# 🌊 GeoExplain: Interpretable Geospatial ML for Urban Flood Risk
+# GeoExplain: Interpretable Geospatial ML for Urban Flood Risk
 
 **Author:** Puneet Devnani  
 *M.Tech – Artificial Intelligence & Data Science, VIT Bhopal*
@@ -47,7 +47,7 @@ GeoExplain/
 
 ---
 
-## 📈 Key Highlights
+## Key Highlights
 
 - **XGBoost + Random Forest Ensemble** for flood prediction  
 - **SHAP Explainability** to interpret model outputs  
